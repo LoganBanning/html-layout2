@@ -1,0 +1,21 @@
+header {
+  width: 100vw;
+  background-color: #3f4238;
+  height: 200px;
+  margin: 0;
+}
+body {
+  background-color: #d4c7b0;
+}
+main {
+  background-color: white;
+  height: 1000px;
+  width: 60vw;
+  margin-left: 20vw;
+}
+footer {
+  background-color: #3f4238;
+  width: 60vw;
+  height: 100px;
+  margin-left: 20vw;
+}
